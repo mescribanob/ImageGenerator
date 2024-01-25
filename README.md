@@ -14,8 +14,7 @@
 
 2. Generate API key on ChatGPT:
 
-   ```bash
-   copy the apiKey and paste in the variable call api_key on main.py
+   copy the apiKey and paste on the variable call api_key
 
 3. Execute streamlit
    
