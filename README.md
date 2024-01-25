@@ -18,4 +18,4 @@
 
 3. Execute streamlit
    
-   Write on the terminal streamlit run image_generation_AI.py
+   Write on the terminal "streamlit run image_generation_AI.py"
